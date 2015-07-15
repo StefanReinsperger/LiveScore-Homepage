@@ -1,0 +1,59 @@
+body { font-family: Nobile, Verdana, Geneva, Arial, Helvetica, sans-serif;
+		background: url(images/master.jpg) repeat-x;
+		background-color: #3b0f0f; }
+		
+.mannschaft { font-weight: bold;
+				height: 50px;}
+.spieler { font-weight: bold; }
+.matches { font-weight: bold;
+			font-size: 400%;
+			color: #000000;
+			background-image: url(images/hintergrund2.png);
+			background-repeat: no-repeat;
+			width: 150px;
+			text-align: center; }
+.saetze { font-weight: bold;
+			font-size: 300%;
+			color: #000000;
+			background-image: url(images/hintergrund3.png);
+			background-repeat: no-repeat;
+			width: 150px; 
+			text-align: center;
+			height: 150px; }
+.punkte { font-weight: bold;
+			font-size: 500%;
+			color: #000000;
+			background-image: url(images/hintergrund.png);
+			background-repeat: no-repeat;
+			width: 150px; 
+			text-align: center;
+			height: 150px; }
+.ueberschrift { font-weight: bold;
+			font-size: 150%;
+			background-color: #ffffff;
+			text-align: center;
+			width: 895px; }
+.tabelle { background-image: url(images/promo.jpg);
+			background-repeat: repeat-x;
+			background-color: #595959;
+			color: #ffffff; }
+.text { font-size: 90%;
+		width: 75px;
+		text-align: center; }
+.fusszeile { background-color: #595959;
+			color: #ffffff;
+			text-align: center;
+			width: 895px; }
+.logo { text-align: center;
+		width: 250px;
+		height: 100px;		}
+.tabellematches { color: #ffffff;
+					text-align: center;
+					width: 900px; }
+.tabellenzelle { background-color: #595959; }
+.tabellesaetze { background-color: #494949;
+					width: 6%; }
+.tabellespieler { background-color: #494949;
+					width: 25%; }
+.tabellegesamt { background-color: #494949;
+					width: 20%; }

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<livescore>
+	<mannschaft>
+		<a>UTTC-Stockerau</a>
+		<b>Linz Froschberg</b>
+	</mannschaft>
+	<logo>
+		<a>USTO</a>
+		<b>FROB</b>
+	</logo>
+	<stand>
+		<a>3</a>
+		<b>2</b>
+	</stand>
+	<aktuell>
+		<spieler>
+			<s1>David Serdaroglu</s1>
+			<s2>Thomas Grininger</s2>
+			<s3/>
+			<s4/>
+		</spieler>
+		<saetze>
+			<a>2</a>
+			<b>1</b>
+		</saetze>
+		<punkte>
+			<a>6</a>
+			<b>4</b>
+		</punkte>
+		<timeout>
+			<a>false</a>
+			<b>true</b>
+		</timeout>
+		<karten>
+			<a>0</a>
+			<b>0</b>
+		</karten>
+	</aktuell>
+	<spieldaten>
+		<spiel1>
+			<sa>Janos Jakab</sa>
+			<sb>Thomas Grininger</sb>
+			<satz1>11:4</satz1>
+			<satz2>11:3</satz2>
+			<satz3>11:8</satz3>
+			<satz4></satz4>
+			<satz5></satz5>
+			<gesamt>3:0</gesamt>
+		</spiel1>
+		<spiel2>
+			<sa>David Serdaroglu</sa>
+			<sb>Xiaoquan Feng</sb>
+			<satz1>9:11</satz1>
+			<satz2>13:11</satz2>
+			<satz3>8:11</satz3>
+			<satz4>7:11</satz4>
+			<satz5></satz5>
+			<gesamt>1:3</gesamt>
+		</spiel2>
+		<spiel3>
+			<sa>Krisztian Molnar</sa>
+			<sb>Lucian Munteanu</sb>
+			<satz1>7:11</satz1>
+			<satz2>9:11</satz2>
+			<satz3>16:14</satz3>
+			<satz4>11:5</satz4>
+			<satz5>11:8</satz5>
+			<gesamt>3:2</gesamt>
+		</spiel3>
+		<spiel4>
+			<sa>K. Molnar / J. Jakab</sa>
+			<sb>L. Munteanu / X. Feng</sb>
+			<satz1>11:4</satz1>
+			<satz2>8:11</satz2>
+			<satz3>11:9</satz3>
+			<satz4>6:11</satz4>
+			<satz5>9:11</satz5>
+			<gesamt>2:3</gesamt>
+		</spiel4>
+		<spiel5>
+			<sa>Janos Jakab</sa>
+			<sb>Xiaoquan Feng</sb>
+			<satz1>11:9</satz1>
+			<satz2>11:5</satz2>
+			<satz3>11:2</satz3>
+			<satz4></satz4>
+			<satz5></satz5>
+			<gesamt>3:0</gesamt>
+		</spiel5>
+		<spiel6>
+			<sa>David Serdaroglu</sa>
+			<sb>Thomas Grininger</sb>
+			<satz1>7:11</satz1>
+			<satz2>11:9</satz2>
+			<satz3>11:4</satz3>
+			<satz4></satz4>
+			<satz5></satz5>
+			<gesamt></gesamt>
+		</spiel6>
+	</spieldaten>
+</livescore>
